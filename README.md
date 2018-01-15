@@ -1,7 +1,8 @@
 # lab-car-boilerplate
-Boilerplate para el reto de frameworks css
 
-Reto de frameworks, utilizando bootstrap, página responsive, que ademas contiene modales.
+Reto de frameworks, realizado con bootstrap, la página es responsive y como extras cuenta con modales.
 
 
-###<L A B O R A T O R I A >
+
+
+### <L A B O R A T O R I A >
