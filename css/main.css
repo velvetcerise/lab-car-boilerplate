@@ -1,1 +1,153 @@
 /* Los estilos de tu proyecto */
+body {
+  margin: 0;
+}
+
+#menu {
+  background: white;
+  border: none;
+}
+
+#sesion, #sesion-2 {
+  background: #08AC9D;
+}
+#registro{
+  background: #2B2B2B;
+  color: #ffff;
+  font-family: Montserrat;
+  border: 6vh solid #2B2B2B;
+  
+}
+
+#phone {
+ margin-top: 11vh;
+ border: 2px solid #ffff;
+ padding: 8vh;
+ font-family: Montserrat;
+}
+
+#iphone {
+  width: 48vh;
+}
+
+#card-2 {
+  border: 6vh solid black;
+  background: black;
+  opacity: 0.9;
+  height: 78vh;
+  color: #ffff;
+  font-family: Montserrat
+}
+
+#conductor{
+  background: #2B2B2B;
+  color: #ffff;
+  border: 6vh solid #2B2B2B;;
+}
+
+
+.login {
+  background-color: #f7b617;
+  font-family: Montserrat
+}
+
+.taxi-background {
+  background-image: url("./../assets/images/taxi.jpg");
+  background-position: bottom;
+  background-size: 100%;
+  height: 100vh;
+}
+
+.card {
+  margin-top: 12vh;
+  background: #F7B617;
+  color: #ffff;
+  height: auto;
+  border: 22px solid #F7B617;
+  font-family: Montserrat;
+}
+
+.app {
+  background: #F7B617;
+  margin-top: -12vh;
+  padding-bottom: 12vh;
+}
+
+.text-phone {
+  color: #ffff;
+  font-size: 18px;
+}
+
+.start {
+  background: #ffff;
+}
+
+.background-2 {
+  background-image: url("./../assets/images/conduce.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: 100%;
+  height: 78vh;
+}
+
+.map {
+  background: #F7B617;
+  color: #ffff;
+  font-family: Montserrat;
+  border: 6vh solid #F7B617;
+}
+
+.form-group {
+  background-color : #F7B617;
+  color: #ffff;
+}
+
+.border{
+  border: .5vh solid #ffff;
+  padding: 2vh;
+}
+
+.menu {
+  color: black;
+}
+
+.footer {
+  background: #2B2B2B;
+  border: 12vh solid #2B2B2B;
+  color: #ffff;
+  font-family: Montserrat;
+  height: auto;
+}
+
+.table-links >li {
+  list-style: none;
+  color: #ffff;
+}
+
+.li-foot {
+  margin: 3vh;
+  color: #ffff;
+}
+
+.icons {
+  font-size: 20px;
+  margin-top: 44vh;
+}
+
+
+/*Estilos de texto para la sección iphone que aparecen a partir de los 768px*/
+.appear {
+color: #ffff;
+font-family: Montserrat;
+}
+
+
+/*Estilo fonts de redes sociales*/
+i {
+  color: white;
+}
+
+hr{
+  height: 10px;
+  background-color: red;
+}
